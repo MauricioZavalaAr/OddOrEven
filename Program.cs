@@ -1,4 +1,5 @@
-﻿bool playAgain = true;
+﻿//works well! nice data validation! ~Liz
+bool playAgain = true;
 bool validResponse = true;
 string UAnswer;
 while(playAgain == true) 

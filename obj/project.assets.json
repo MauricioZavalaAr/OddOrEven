@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mauricio\\.nuget\\packages\\": {}
+    "C:\\Users\\lizg1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\OddOrEven\\OddOrEven\\OddOrEven.csproj",
+      "projectUniqueName": "C:\\Users\\lizg1\\MauricioRepo\\OddOrEven\\OddOrEven.csproj",
       "projectName": "OddOrEven",
-      "projectPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\OddOrEven\\OddOrEven\\OddOrEven.csproj",
-      "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\OddOrEven\\OddOrEven\\obj\\",
+      "projectPath": "C:\\Users\\lizg1\\MauricioRepo\\OddOrEven\\OddOrEven.csproj",
+      "packagesPath": "C:\\Users\\lizg1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lizg1\\MauricioRepo\\OddOrEven\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lizg1\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
